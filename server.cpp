@@ -2,7 +2,7 @@
 #include <arpa/inet.h>
 #include <cmath>
 #include <iostream>
-#include <nlohmann/json.hpp>
+#include <json.hpp>
 #include <stdio.h>
 #include <string.h>
 #include <sys/socket.h>
